@@ -35,3 +35,13 @@ Install json-server from npm by using the following command.
 Run json-server
 
     json-server --watch db.json
+
+## Screenshots:
+
+![image](https://github.com/namthai-dev/angular-web-app/assets/102452878/285dce46-6ca8-4a9e-8a89-2e95db5da9c5)
+
+![image](https://github.com/namthai-dev/angular-web-app/assets/102452878/d1f36fb1-bfce-43a9-8ae3-b959578aa6df)
+
+![image](https://github.com/namthai-dev/angular-web-app/assets/102452878/c241668b-e83d-49a5-814d-3e293c783b47)
+
+![image](https://github.com/namthai-dev/angular-web-app/assets/102452878/b77faa9e-7bed-4c5c-bd28-1666954850e9)
